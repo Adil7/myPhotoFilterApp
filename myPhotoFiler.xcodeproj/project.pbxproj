@@ -14,6 +14,7 @@
 		C59F92761E39DC0F005B27B0 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C59F92741E39DC0F005B27B0 /* LaunchScreen.storyboard */; };
 		C59F92811E39DC0F005B27B0 /* myPhotoFilerTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59F92801E39DC0F005B27B0 /* myPhotoFilerTests.swift */; };
 		C59F928C1E39DC0F005B27B0 /* myPhotoFilerUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = C59F928B1E39DC0F005B27B0 /* myPhotoFilerUITests.swift */; };
+		C59F929A1E39DCD9005B27B0 /* goldenGateBridge.jpg in Resources */ = {isa = PBXBuildFile; fileRef = C59F92991E39DCD9005B27B0 /* goldenGateBridge.jpg */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		C59F92871E39DC0F005B27B0 /* myPhotoFilerUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = myPhotoFilerUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		C59F928B1E39DC0F005B27B0 /* myPhotoFilerUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = myPhotoFilerUITests.swift; sourceTree = "<group>"; };
 		C59F928D1E39DC0F005B27B0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C59F92991E39DCD9005B27B0 /* goldenGateBridge.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = goldenGateBridge.jpg; path = ../../../../Desktop/goldenGateBridge.jpg; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		C59F926A1E39DC0F005B27B0 /* myPhotoFiler */ = {
 			isa = PBXGroup;
 			children = (
+				C59F92991E39DCD9005B27B0 /* goldenGateBridge.jpg */,
 				C59F926B1E39DC0F005B27B0 /* AppDelegate.swift */,
 				C59F926D1E39DC0F005B27B0 /* ViewController.swift */,
 				C59F926F1E39DC0F005B27B0 /* Main.storyboard */,
@@ -235,6 +238,7 @@
 				C59F92761E39DC0F005B27B0 /* LaunchScreen.storyboard in Resources */,
 				C59F92731E39DC0F005B27B0 /* Assets.xcassets in Resources */,
 				C59F92711E39DC0F005B27B0 /* Main.storyboard in Resources */,
+				C59F929A1E39DCD9005B27B0 /* goldenGateBridge.jpg in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
